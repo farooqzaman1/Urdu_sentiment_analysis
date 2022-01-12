@@ -1,8 +1,11 @@
 # Urdu_sentiment_analysis
 code and data for paper [Sentiment analysis for Urdu online reviews using deep learning models](https://onlinelibrary.wiley.com/doi/pdf/10.1111/exsy.12751)
 
-citation
 
+
+## How to Cite
+If you extend or use this work, please cite the [paper](https://arxiv.org/pdf/2001.04063) where it was introduced:
+```
 @article{safder2021sentiment,
   title={Sentiment analysis for Urdu online reviews using deep learning models},
   author={Safder, Iqra and Mahmood, Zainab and Sarwar, Raheem and Hassan, Saeed-Ul and Zaman, Farooq and Nawab, Rao Muhammad Adeel and Bukhari, Faisal and Abbasi, Rabeeh Ayaz and Alelyani, Salem and Aljohani, Naif Radi and others},
@@ -11,3 +14,4 @@ citation
   year={2021},
   publisher={Wiley Online Library}
 }
+```
