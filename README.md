@@ -4,7 +4,7 @@ code and data for paper [Sentiment analysis for Urdu online reviews using deep l
 
 
 ## How to Cite
-If you extend or use this work, please cite the [paper](https://arxiv.org/pdf/2001.04063) where it was introduced:
+If you extend or use this work, please cite the [paper](https://onlinelibrary.wiley.com/doi/pdf/10.1111/exsy.12751) where it was introduced:
 ```
 @article{safder2021sentiment,
   title={Sentiment analysis for Urdu online reviews using deep learning models},
